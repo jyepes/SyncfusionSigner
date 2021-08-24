@@ -63,7 +63,7 @@ namespace SignerConsoleApp
             //Drawing text, shape, and image into the signature appearance.
             signature.Appearance.Normal.Graphics.DrawRectangle(PdfPens.Black, PdfBrushes.White, new Syncfusion.Drawing.RectangleF(50, 0, 300, 100));
             signature.Appearance.Normal.Graphics.DrawImage(image, 0, 0, 100, 100);
-            signature.Appearance.Normal.Graphics.DrawString("Firmado por JULIO CÉSAR YEPES RUIZ", font, PdfBrushes.Black, 120, 17);
+            signature.Appearance.Normal.Graphics.DrawString("Signer: JULIO CÉSAR YEPES RUIZ", font, PdfBrushes.Black, 120, 17);
             signature.Appearance.Normal.Graphics.DrawString("Reason: Prueba firma de contrato", font, PdfBrushes.Black, 120, 39);
             signature.Appearance.Normal.Graphics.DrawString("Location: Colombia", font, PdfBrushes.Black, 120, 60);
 
