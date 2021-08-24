@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignerConsoleApp", "SignerConsoleApp\SignerConsoleApp.csproj", "{50939453-9D5C-4544-86BC-0172E4AC8870}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50939453-9D5C-4544-86BC-0172E4AC8870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50939453-9D5C-4544-86BC-0172E4AC8870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50939453-9D5C-4544-86BC-0172E4AC8870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50939453-9D5C-4544-86BC-0172E4AC8870}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA4587B9-A688-4175-93BB-89481AC78DFA}
+	EndGlobalSection
+EndGlobal
